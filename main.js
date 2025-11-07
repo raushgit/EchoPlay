@@ -15,7 +15,6 @@ let total_duration = document.querySelector(".total-duration");
 let track_index = 0;
 let isPlaying = false;
 let updateTimer;
-
 // Create new audio element
 let curr_track = document.createElement('audio');
 
